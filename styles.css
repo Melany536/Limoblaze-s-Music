@@ -1,0 +1,19 @@
+table,th, td{
+    border:1px solid blanchedalmond;
+}
+
+
+
+
+    table.center{
+        margin-left:auto;
+        margin-right:auto
+    }
+
+body {
+    background:
+url(https://www.praiseworldradio.com/wp-content/uploads/2020/11/limoblaze__20201123_005605_0.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
