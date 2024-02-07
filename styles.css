@@ -1,8 +1,6 @@
 table,th, td{
-    border:1px solid blanchedalmond;
+    border:2px solid blanchedalmond;
 }
-
-
 
 
     table.center{
@@ -14,6 +12,12 @@ body {
     background:
 url(https://www.praiseworldradio.com/wp-content/uploads/2020/11/limoblaze__20201123_005605_0.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: cover;
+}
+
+form{
+    background-color: rgba(240, 231, 150, 0.541); width: 200px;
+    padding: 10px;
+    width:300px;
+
 }
